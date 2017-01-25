@@ -1,0 +1,1176 @@
+Wed Jan 25 19:36:26 2017 ingesting #0: Balsas001_10.wav ...
+Added 2156 hashes (215.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.049 x RT
+Saved fprints for 1 files ( 2156 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas001_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:36:32 2017 ingesting #0: Balsas001_20.wav ...
+Added 2638 hashes (131.9 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.8 s sec = 0.040 x RT
+Saved fprints for 1 files ( 2638 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas001_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:36:38 2017 ingesting #0: Balsas002_10.wav ...
+Added 3013 hashes (301.3 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.053 x RT
+Saved fprints for 1 files ( 3013 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas002_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:36:44 2017 ingesting #0: Balsas002_20.wav ...
+Added 1998 hashes (133.2 hashes/sec)
+Processed 1 files (15.0 s total dur) in 0.6 s sec = 0.041 x RT
+Saved fprints for 1 files ( 1998 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas002_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:36:50 2017 ingesting #0: Balsas003_10.wav ...
+Added 2448 hashes (244.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.051 x RT
+Saved fprints for 1 files ( 2448 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas003_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:36:55 2017 ingesting #0: Balsas003_20.wav ...
+Added 2783 hashes (139.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.8 s sec = 0.040 x RT
+Saved fprints for 1 files ( 2783 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas003_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:37:01 2017 ingesting #0: Balsas004_10.wav ...
+Added 3124 hashes (312.4 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.049 x RT
+Saved fprints for 1 files ( 3124 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas004_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:37:06 2017 ingesting #0: Balsas004_10_2.wav ...
+Added 2159 hashes (215.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.047 x RT
+Saved fprints for 1 files ( 2159 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas004_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:37:11 2017 ingesting #0: Balsas004_20.wav ...
+Added 2522 hashes (126.1 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.8 s sec = 0.040 x RT
+Saved fprints for 1 files ( 2522 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas004_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:37:18 2017 ingesting #0: Balsas005_10.wav ...
+Added 2449 hashes (244.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.048 x RT
+Saved fprints for 1 files ( 2449 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas005_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:37:23 2017 ingesting #0: Balsas005_20.wav ...
+Added 2851 hashes (142.6 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.8 s sec = 0.042 x RT
+Saved fprints for 1 files ( 2851 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas005_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:37:29 2017 ingesting #0: Balsas006_10.wav ...
+Added 2029 hashes (202.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.047 x RT
+Saved fprints for 1 files ( 2029 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas006_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:37:34 2017 ingesting #0: Balsas006_10_2.wav ...
+Added 1876 hashes (187.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.046 x RT
+Saved fprints for 1 files ( 1876 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas006_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:37:40 2017 ingesting #0: Balsas006_20.wav ...
+Added 3462 hashes (173.1 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.043 x RT
+Saved fprints for 1 files ( 3462 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas006_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:37:45 2017 ingesting #0: Balsas007_10.wav ...
+Added 2517 hashes (251.7 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.048 x RT
+Saved fprints for 1 files ( 2517 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas007_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:37:51 2017 ingesting #0: Balsas007_20.wav ...
+Added 2897 hashes (144.8 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.8 s sec = 0.041 x RT
+Saved fprints for 1 files ( 2897 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas007_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:37:56 2017 ingesting #0: Balsas008_10.wav ...
+Added 3023 hashes (302.3 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.050 x RT
+Saved fprints for 1 files ( 3023 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas008_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:38:02 2017 ingesting #0: Balsas008_10_2.wav ...
+Added 1995 hashes (199.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.049 x RT
+Saved fprints for 1 files ( 1995 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas008_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:38:07 2017 ingesting #0: Balsas008_20.wav ...
+Added 3399 hashes (169.9 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.8 s sec = 0.040 x RT
+Saved fprints for 1 files ( 3399 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas008_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:38:13 2017 ingesting #0: Balsas009_10.wav ...
+Added 2464 hashes (246.4 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.047 x RT
+Saved fprints for 1 files ( 2464 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas009_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:38:18 2017 ingesting #0: Balsas009_10_2.wav ...
+Added 2380 hashes (238.0 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.049 x RT
+Saved fprints for 1 files ( 2380 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas009_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:38:23 2017 ingesting #0: Balsas009_20.wav ...
+Added 2623 hashes (131.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.043 x RT
+Saved fprints for 1 files ( 2623 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas009_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:38:29 2017 ingesting #0: Balsas010_10.wav ...
+Added 3238 hashes (323.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.050 x RT
+Saved fprints for 1 files ( 3238 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas010_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:38:34 2017 ingesting #0: Balsas010_10_2.wav ...
+Added 2644 hashes (264.4 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.056 x RT
+Saved fprints for 1 files ( 2644 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas010_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:38:40 2017 ingesting #0: Balsas010_20.wav ...
+Added 2985 hashes (149.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.045 x RT
+Saved fprints for 1 files ( 2985 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas010_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:38:46 2017 ingesting #0: Balsas011_10.wav ...
+Added 2116 hashes (211.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.046 x RT
+Saved fprints for 1 files ( 2116 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas011_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:38:51 2017 ingesting #0: Balsas011_10_2.wav ...
+Added 2640 hashes (264.0 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.051 x RT
+Saved fprints for 1 files ( 2640 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas011_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:38:56 2017 ingesting #0: Balsas011_20.wav ...
+Added 4929 hashes (246.4 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.046 x RT
+Saved fprints for 1 files ( 4929 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas011_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:39:02 2017 ingesting #0: Balsas012_10.wav ...
+Added 3181 hashes (318.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.052 x RT
+Saved fprints for 1 files ( 3181 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas012_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:39:08 2017 ingesting #0: Balsas012_20.wav ...
+Added 2863 hashes (143.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.8 s sec = 0.041 x RT
+Saved fprints for 1 files ( 2863 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas012_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:39:13 2017 ingesting #0: Balsas013_10.wav ...
+Added 3637 hashes (363.7 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.052 x RT
+Saved fprints for 1 files ( 3637 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas013_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:39:19 2017 ingesting #0: Balsas013_10_2.wav ...
+Added 2867 hashes (291.2 hashes/sec)
+Processed 1 files (9.8 s total dur) in 0.5 s sec = 0.049 x RT
+Saved fprints for 1 files ( 2867 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas013_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:39:24 2017 ingesting #0: Balsas013_20.wav ...
+Added 3277 hashes (163.8 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.045 x RT
+Saved fprints for 1 files ( 3277 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas013_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:39:30 2017 ingesting #0: Balsas014_10.wav ...
+Added 2971 hashes (297.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.052 x RT
+Saved fprints for 1 files ( 2971 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas014_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:39:35 2017 ingesting #0: Balsas014_10_2.wav ...
+Added 4459 hashes (445.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.054 x RT
+Saved fprints for 1 files ( 4459 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas014_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:39:41 2017 ingesting #0: Balsas014_20.wav ...
+Added 4191 hashes (209.6 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.044 x RT
+Saved fprints for 1 files ( 4191 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas014_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:39:47 2017 ingesting #0: Balsas015_10.wav ...
+Added 3004 hashes (300.4 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.051 x RT
+Saved fprints for 1 files ( 3004 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas015_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:39:52 2017 ingesting #0: Balsas015_10_2.wav ...
+Added 2145 hashes (214.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.061 x RT
+Saved fprints for 1 files ( 2145 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas015_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:39:58 2017 ingesting #0: Balsas015_20.wav ...
+Added 3531 hashes (176.6 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.0 s sec = 0.050 x RT
+Saved fprints for 1 files ( 3531 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas015_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:40:04 2017 ingesting #0: Balsas016_10.wav ...
+Added 3621 hashes (362.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.053 x RT
+Saved fprints for 1 files ( 3621 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas016_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:40:10 2017 ingesting #0: Balsas016_10_2.wav ...
+Added 4706 hashes (470.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.056 x RT
+Saved fprints for 1 files ( 4706 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas016_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:40:15 2017 ingesting #0: Balsas016_20.wav ...
+Added 5581 hashes (279.1 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.0 s sec = 0.049 x RT
+Saved fprints for 1 files ( 5581 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas016_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:40:22 2017 ingesting #0: Balsas017_10.wav ...
+Added 3070 hashes (307.0 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.065 x RT
+Saved fprints for 1 files ( 3070 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas017_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:40:28 2017 ingesting #0: Balsas017_10_2.wav ...
+Added 2413 hashes (241.3 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.051 x RT
+Saved fprints for 1 files ( 2413 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas017_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:40:33 2017 ingesting #0: Balsas017_20.wav ...
+Added 2410 hashes (120.5 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.8 s sec = 0.041 x RT
+Saved fprints for 1 files ( 2410 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas017_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:40:39 2017 ingesting #0: Balsas018_10.wav ...
+Added 3817 hashes (381.7 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.054 x RT
+Saved fprints for 1 files ( 3817 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas018_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:40:44 2017 ingesting #0: Balsas018_10_2_suo.wav ...
+Added 3857 hashes (385.7 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.052 x RT
+Saved fprints for 1 files ( 3857 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas018_10_2_suo.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:40:49 2017 ingesting #0: Balsas018_20.wav ...
+Added 4055 hashes (202.8 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.045 x RT
+Saved fprints for 1 files ( 4055 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas018_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:40:55 2017 ingesting #0: Balsas019_10.wav ...
+Added 4105 hashes (410.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.054 x RT
+Saved fprints for 1 files ( 4105 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas019_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:41:01 2017 ingesting #0: Balsas019_10_2.wav ...
+Added 1921 hashes (192.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.049 x RT
+Saved fprints for 1 files ( 1921 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas019_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:41:06 2017 ingesting #0: Balsas019_20.wav ...
+Added 2471 hashes (123.5 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.045 x RT
+Saved fprints for 1 files ( 2471 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas019_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:41:13 2017 ingesting #0: Balsas020_10.wav ...
+Added 4648 hashes (464.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.062 x RT
+Saved fprints for 1 files ( 4648 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas020_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:41:19 2017 ingesting #0: Balsas020_10_2.wav ...
+Added 4729 hashes (472.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.055 x RT
+Saved fprints for 1 files ( 4729 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas020_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:41:24 2017 ingesting #0: Balsas020_20.wav ...
+Added 4754 hashes (237.7 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.046 x RT
+Saved fprints for 1 files ( 4754 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas020_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:41:30 2017 ingesting #0: Balsas021_10.wav ...
+Added 2876 hashes (287.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.052 x RT
+Saved fprints for 1 files ( 2876 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas021_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:41:36 2017 ingesting #0: Balsas021_20.wav ...
+Added 3041 hashes (152.1 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.0 s sec = 0.048 x RT
+Saved fprints for 1 files ( 3041 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas021_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:41:42 2017 ingesting #0: Balsas022_10.wav ...
+Added 3070 hashes (307.0 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.065 x RT
+Saved fprints for 1 files ( 3070 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas022_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:41:48 2017 ingesting #0: Balsas022_20.wav ...
+Added 3190 hashes (159.5 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.047 x RT
+Saved fprints for 1 files ( 3190 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas022_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:41:55 2017 ingesting #0: Balsas023_10.wav ...
+Added 3716 hashes (371.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.055 x RT
+Saved fprints for 1 files ( 3716 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas023_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:42:01 2017 ingesting #0: Balsas023_10_2.wav ...
+Added 3807 hashes (380.7 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.053 x RT
+Saved fprints for 1 files ( 3807 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas023_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:42:06 2017 ingesting #0: Balsas023_20.wav ...
+Added 3609 hashes (180.4 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.046 x RT
+Saved fprints for 1 files ( 3609 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas023_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:42:12 2017 ingesting #0: Balsas024_10.wav ...
+Added 3270 hashes (327.0 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.051 x RT
+Saved fprints for 1 files ( 3270 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas024_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:42:19 2017 ingesting #0: Balsas024_10_2.wav ...
+Added 1893 hashes (189.3 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.047 x RT
+Saved fprints for 1 files ( 1893 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas024_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:42:24 2017 ingesting #0: Balsas024_20.wav ...
+Added 4041 hashes (202.1 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.046 x RT
+Saved fprints for 1 files ( 4041 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas024_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:42:30 2017 ingesting #0: Balsas025_10.wav ...
+Added 3494 hashes (349.4 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.073 x RT
+Saved fprints for 1 files ( 3494 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas025_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:42:37 2017 ingesting #0: Balsas025_10_2.wav ...
+Added 3796 hashes (379.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.074 x RT
+Saved fprints for 1 files ( 3796 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas025_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:42:43 2017 ingesting #0: Balsas025_20.wav ...
+Added 3999 hashes (199.9 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.047 x RT
+Saved fprints for 1 files ( 3999 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas025_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:42:49 2017 ingesting #0: Balsas026_10.wav ...
+Added 2402 hashes (240.2 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.051 x RT
+Saved fprints for 1 files ( 2402 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas026_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:42:54 2017 ingesting #0: Balsas026_10_2.wav ...
+Added 2738 hashes (273.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.059 x RT
+Saved fprints for 1 files ( 2738 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas026_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:43:01 2017 ingesting #0: Balsas026_20.wav ...
+Added 3504 hashes (175.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.0 s sec = 0.051 x RT
+Saved fprints for 1 files ( 3504 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas026_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:43:08 2017 ingesting #0: Balsas027_10.wav ...
+Added 3283 hashes (328.3 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.051 x RT
+Saved fprints for 1 files ( 3283 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas027_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:43:14 2017 ingesting #0: Balsas027_10_2.wav ...
+Added 3986 hashes (398.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.062 x RT
+Saved fprints for 1 files ( 3986 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas027_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:43:20 2017 ingesting #0: Balsas027_20.wav ...
+Added 4412 hashes (220.6 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.0 s sec = 0.052 x RT
+Saved fprints for 1 files ( 4412 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas027_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:43:27 2017 ingesting #0: Balsas028_10.wav ...
+Added 3538 hashes (353.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.057 x RT
+Saved fprints for 1 files ( 3538 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas028_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:43:33 2017 ingesting #0: Balsas028_10_2.wav ...
+Added 3775 hashes (377.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.054 x RT
+Saved fprints for 1 files ( 3775 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas028_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:43:38 2017 ingesting #0: Balsas028_20.wav ...
+Added 3804 hashes (190.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.045 x RT
+Saved fprints for 1 files ( 3804 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas028_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:43:44 2017 ingesting #0: Balsas029_10.wav ...
+Added 3897 hashes (389.7 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.053 x RT
+Saved fprints for 1 files ( 3897 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas029_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:43:50 2017 ingesting #0: Balsas029_10_2.wav ...
+Added 3848 hashes (384.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.055 x RT
+Saved fprints for 1 files ( 3848 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas029_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:43:55 2017 ingesting #0: Balsas029_20.wav ...
+Added 4405 hashes (220.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.045 x RT
+Saved fprints for 1 files ( 4405 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas029_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:44:01 2017 ingesting #0: Balsas030_10.wav ...
+Added 3838 hashes (383.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.056 x RT
+Saved fprints for 1 files ( 3838 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas030_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:44:07 2017 ingesting #0: Balsas030_10_2.wav ...
+Added 3996 hashes (399.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.053 x RT
+Saved fprints for 1 files ( 3996 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas030_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:44:12 2017 ingesting #0: Balsas030_20.wav ...
+Added 4403 hashes (220.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.047 x RT
+Saved fprints for 1 files ( 4403 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas030_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:44:19 2017 ingesting #0: Balsas031_10.wav ...
+Added 3951 hashes (395.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.053 x RT
+Saved fprints for 1 files ( 3951 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas031_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:44:24 2017 ingesting #0: Balsas031_10_2.wav ...
+Added 3774 hashes (377.4 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.053 x RT
+Saved fprints for 1 files ( 3774 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas031_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:44:29 2017 ingesting #0: Balsas031_20.wav ...
+Added 3839 hashes (191.9 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.0 s sec = 0.050 x RT
+Saved fprints for 1 files ( 3839 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas031_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:44:35 2017 ingesting #0: Balsas032_10.wav ...
+Added 898 hashes (89.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.051 x RT
+Saved fprints for 1 files ( 898 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas032_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:44:41 2017 ingesting #0: Balsas032_10_2.wav ...
+Added 1767 hashes (200.1 hashes/sec)
+Processed 1 files (8.8 s total dur) in 0.4 s sec = 0.048 x RT
+Saved fprints for 1 files ( 1767 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas032_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:44:46 2017 ingesting #0: Balsas032_20.wav ...
+Added 2186 hashes (109.3 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.044 x RT
+Saved fprints for 1 files ( 2186 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas032_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:44:53 2017 ingesting #0: Balsas033_10.wav ...
+Added 3706 hashes (370.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.063 x RT
+Saved fprints for 1 files ( 3706 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas033_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:44:58 2017 ingesting #0: Balsas033_10_2.wav ...
+Added 3363 hashes (336.3 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.052 x RT
+Saved fprints for 1 files ( 3363 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas033_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:45:04 2017 ingesting #0: Balsas033_20.wav ...
+Added 4451 hashes (222.6 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.0 s sec = 0.050 x RT
+Saved fprints for 1 files ( 4451 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas033_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:45:10 2017 ingesting #0: Balsas034_10.wav ...
+Added 3706 hashes (370.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.054 x RT
+Saved fprints for 1 files ( 3706 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas034_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:45:16 2017 ingesting #0: Balsas034_10_2.wav ...
+Added 3871 hashes (387.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.055 x RT
+Saved fprints for 1 files ( 3871 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas034_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:45:22 2017 ingesting #0: Balsas034_20.wav ...
+Added 3877 hashes (193.8 hashes/sec)
+Processed 1 files (20.0 s total dur) in 0.9 s sec = 0.047 x RT
+Saved fprints for 1 files ( 3877 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas034_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:45:28 2017 ingesting #0: Balsas035_10.wav ...
+Added 3556 hashes (355.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.055 x RT
+Saved fprints for 1 files ( 3556 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas035_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:45:33 2017 ingesting #0: Balsas035_10_2.wav ...
+Added 3986 hashes (398.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.5 s sec = 0.054 x RT
+Saved fprints for 1 files ( 3986 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas035_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:45:39 2017 ingesting #0: Balsas035_20.wav ...
+Added 4751 hashes (237.6 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.0 s sec = 0.048 x RT
+Saved fprints for 1 files ( 4751 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas035_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:45:45 2017 ingesting #0: Balsas036_10.wav ...
+Added 3974 hashes (397.4 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.056 x RT
+Saved fprints for 1 files ( 3974 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas036_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:45:51 2017 ingesting #0: Balsas036_10_2.wav ...
+Added 4086 hashes (408.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.075 x RT
+Saved fprints for 1 files ( 4086 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas036_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:45:58 2017 ingesting #0: Balsas036_20.wav ...
+Added 3767 hashes (188.3 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.053 x RT
+Saved fprints for 1 files ( 3767 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas036_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:46:05 2017 ingesting #0: Balsas037_10.wav ...
+Added 3011 hashes (301.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.061 x RT
+Saved fprints for 1 files ( 3011 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas037_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:46:11 2017 ingesting #0: Balsas037_10_2.wav ...
+Added 4202 hashes (420.2 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.062 x RT
+Saved fprints for 1 files ( 4202 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas037_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:46:18 2017 ingesting #0: Balsas037_20.wav ...
+Added 3552 hashes (177.6 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.057 x RT
+Saved fprints for 1 files ( 3552 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas037_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:46:25 2017 ingesting #0: Balsas038_10.wav ...
+Added 3380 hashes (338.0 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.062 x RT
+Saved fprints for 1 files ( 3380 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas038_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:46:31 2017 ingesting #0: Balsas038_10_2.wav ...
+Added 3667 hashes (366.7 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.062 x RT
+Saved fprints for 1 files ( 3667 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas038_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:46:37 2017 ingesting #0: Balsas038_20.wav ...
+Added 5316 hashes (265.8 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.056 x RT
+Saved fprints for 1 files ( 5316 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas038_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:46:45 2017 ingesting #0: Balsas039_10.wav ...
+Added 3227 hashes (322.7 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.063 x RT
+Saved fprints for 1 files ( 3227 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas039_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:46:51 2017 ingesting #0: Balsas039_10_2.wav ...
+Added 3812 hashes (381.2 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.067 x RT
+Saved fprints for 1 files ( 3812 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas039_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:46:57 2017 ingesting #0: Balsas039_20.wav ...
+Added 3884 hashes (194.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.057 x RT
+Saved fprints for 1 files ( 3884 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas039_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:47:05 2017 ingesting #0: Balsas040_20.wav ...
+Added 3768 hashes (188.4 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.056 x RT
+Saved fprints for 1 files ( 3768 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas040_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:47:12 2017 ingesting #0: Balsas041_10.wav ...
+Added 2475 hashes (247.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.058 x RT
+Saved fprints for 1 files ( 2475 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas041_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:47:18 2017 ingesting #0: Balsas041_10_2.wav ...
+Added 2458 hashes (245.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.066 x RT
+Saved fprints for 1 files ( 2458 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas041_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:47:24 2017 ingesting #0: Balsas041_20.wav ...
+Added 3635 hashes (181.8 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.054 x RT
+Saved fprints for 1 files ( 3635 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas041_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:47:31 2017 ingesting #0: Balsas042_10_2.wav ...
+Added 4139 hashes (413.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.068 x RT
+Saved fprints for 1 files ( 4139 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas042_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:47:37 2017 ingesting #0: Balsas042_20.wav ...
+Added 3676 hashes (183.8 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.057 x RT
+Saved fprints for 1 files ( 3676 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas042_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:47:45 2017 ingesting #0: Balsas043_10.wav ...
+Added 4388 hashes (438.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.066 x RT
+Saved fprints for 1 files ( 4388 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas043_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:47:51 2017 ingesting #0: Balsas043_10_2.wav ...
+Added 3942 hashes (394.2 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.069 x RT
+Saved fprints for 1 files ( 3942 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas043_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:47:58 2017 ingesting #0: Balsas043_20.wav ...
+Added 3446 hashes (172.3 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.055 x RT
+Saved fprints for 1 files ( 3446 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas043_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:48:05 2017 ingesting #0: Balsas044_10.wav ...
+Added 3854 hashes (385.4 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.065 x RT
+Saved fprints for 1 files ( 3854 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas044_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:48:11 2017 ingesting #0: Balsas044_10_2.wav ...
+Added 4435 hashes (443.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.064 x RT
+Saved fprints for 1 files ( 4435 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas044_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:48:17 2017 ingesting #0: Balsas044_20.wav ...
+Added 4928 hashes (246.4 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.057 x RT
+Saved fprints for 1 files ( 4928 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas044_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:48:25 2017 ingesting #0: Balsas045_10.wav ...
+Added 3747 hashes (374.7 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.069 x RT
+Saved fprints for 1 files ( 3747 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas045_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:48:32 2017 ingesting #0: Balsas045_10_2.wav ...
+Added 3880 hashes (388.0 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.9 s sec = 0.094 x RT
+Saved fprints for 1 files ( 3880 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas045_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:48:40 2017 ingesting #0: Balsas045_20.wav ...
+Added 3065 hashes (153.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.2 s sec = 0.061 x RT
+Saved fprints for 1 files ( 3065 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas045_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:48:47 2017 ingesting #0: Balsas046_10.wav ...
+Added 2155 hashes (215.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.9 s sec = 0.090 x RT
+Saved fprints for 1 files ( 2155 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas046_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:48:54 2017 ingesting #0: Balsas046_10_2.wav ...
+Added 2276 hashes (227.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.065 x RT
+Saved fprints for 1 files ( 2276 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas046_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:49:01 2017 ingesting #0: Balsas046_20.wav ...
+Added 2640 hashes (132.0 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.057 x RT
+Saved fprints for 1 files ( 2640 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas046_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:49:09 2017 ingesting #0: Balsas047_10.wav ...
+Added 3672 hashes (367.2 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.069 x RT
+Saved fprints for 1 files ( 3672 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas047_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:49:17 2017 ingesting #0: Balsas047_10_2.wav ...
+Added 4218 hashes (421.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.072 x RT
+Saved fprints for 1 files ( 4218 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas047_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:49:24 2017 ingesting #0: Balsas047_20.wav ...
+Added 3328 hashes (166.4 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.055 x RT
+Saved fprints for 1 files ( 3328 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas047_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:49:31 2017 ingesting #0: Balsas048_10.wav ...
+Added 3751 hashes (375.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.066 x RT
+Saved fprints for 1 files ( 3751 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas048_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:49:38 2017 ingesting #0: Balsas048_10_2.wav ...
+Added 3492 hashes (349.2 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.061 x RT
+Saved fprints for 1 files ( 3492 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas048_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:49:45 2017 ingesting #0: Balsas048_20.wav ...
+Added 3297 hashes (164.8 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.2 s sec = 0.059 x RT
+Saved fprints for 1 files ( 3297 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas048_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:49:53 2017 ingesting #0: Balsas049_10.wav ...
+Added 3901 hashes (390.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.8 s sec = 0.075 x RT
+Saved fprints for 1 files ( 3901 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas049_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:49:59 2017 ingesting #0: Balsas049_10_2.wav ...
+Added 4292 hashes (429.2 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.070 x RT
+Saved fprints for 1 files ( 4292 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas049_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:50:06 2017 ingesting #0: Balsas049_20.wav ...
+Added 3350 hashes (167.5 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.053 x RT
+Saved fprints for 1 files ( 3350 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas049_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:50:13 2017 ingesting #0: Balsas050_10.wav ...
+Added 3741 hashes (374.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.068 x RT
+Saved fprints for 1 files ( 3741 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas050_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:50:20 2017 ingesting #0: Balsas050_10_2.wav ...
+Added 3993 hashes (399.3 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.067 x RT
+Saved fprints for 1 files ( 3993 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas050_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:50:27 2017 ingesting #0: Balsas050_20.wav ...
+Added 2338 hashes (116.9 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.2 s sec = 0.061 x RT
+Saved fprints for 1 files ( 2338 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas050_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:50:34 2017 ingesting #0: Balsas051_10.wav ...
+Added 4133 hashes (413.3 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.069 x RT
+Saved fprints for 1 files ( 4133 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas051_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:50:41 2017 ingesting #0: Balsas051_10_2.wav ...
+Added 4097 hashes (409.7 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.9 s sec = 0.089 x RT
+Saved fprints for 1 files ( 4097 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas051_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:50:49 2017 ingesting #0: Balsas051_20.wav ...
+Added 2492 hashes (124.6 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.2 s sec = 0.059 x RT
+Saved fprints for 1 files ( 2492 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas051_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:50:57 2017 ingesting #0: Balsas052_10.wav ...
+Added 4235 hashes (423.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.9 s sec = 0.086 x RT
+Saved fprints for 1 files ( 4235 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas052_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:51:05 2017 ingesting #0: Balsas052_10_2.wav ...
+Added 3877 hashes (387.7 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.8 s sec = 0.075 x RT
+Saved fprints for 1 files ( 3877 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas052_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:51:12 2017 ingesting #0: Balsas052_20.wav ...
+Added 3177 hashes (158.8 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.053 x RT
+Saved fprints for 1 files ( 3177 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas052_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:51:19 2017 ingesting #0: Balsas053_10.wav ...
+Added 3819 hashes (381.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.071 x RT
+Saved fprints for 1 files ( 3819 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas053_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:51:26 2017 ingesting #0: Balsas053_20.wav ...
+Added 3435 hashes (171.8 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.055 x RT
+Saved fprints for 1 files ( 3435 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas053_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:51:33 2017 ingesting #0: Balsas054_10.wav ...
+Added 3692 hashes (369.2 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.068 x RT
+Saved fprints for 1 files ( 3692 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas054_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:51:40 2017 ingesting #0: Balsas054_10_2.wav ...
+Added 4097 hashes (409.7 hashes/sec)
+Processed 1 files (10.0 s total dur) in 1.0 s sec = 0.100 x RT
+Saved fprints for 1 files ( 4097 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas054_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:51:48 2017 ingesting #0: Balsas054_20.wav ...
+Added 2406 hashes (120.3 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.2 s sec = 0.058 x RT
+Saved fprints for 1 files ( 2406 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas054_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:51:56 2017 ingesting #0: Balsas055_10.wav ...
+Added 3501 hashes (350.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.063 x RT
+Saved fprints for 1 files ( 3501 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas055_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:52:02 2017 ingesting #0: Balsas055_10_2.wav ...
+Added 4106 hashes (410.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.068 x RT
+Saved fprints for 1 files ( 4106 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas055_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:52:09 2017 ingesting #0: Balsas055_20.wav ...
+Added 2665 hashes (133.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.053 x RT
+Saved fprints for 1 files ( 2665 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas055_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:52:16 2017 ingesting #0: Balsas056_10.wav ...
+Added 3839 hashes (383.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.066 x RT
+Saved fprints for 1 files ( 3839 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas056_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:52:22 2017 ingesting #0: Balsas056_10_2.wav ...
+Added 4235 hashes (423.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.066 x RT
+Saved fprints for 1 files ( 4235 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas056_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:52:29 2017 ingesting #0: Balsas056_20.wav ...
+Added 2408 hashes (120.4 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.053 x RT
+Saved fprints for 1 files ( 2408 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas056_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:52:36 2017 ingesting #0: Balsas057_10.wav ...
+Added 3555 hashes (355.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.063 x RT
+Saved fprints for 1 files ( 3555 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas057_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:52:42 2017 ingesting #0: Balsas057_10_2.wav ...
+Added 3648 hashes (364.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.065 x RT
+Saved fprints for 1 files ( 3648 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas057_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:52:49 2017 ingesting #0: Balsas057_20.wav ...
+Added 1840 hashes (92.0 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.2 s sec = 0.058 x RT
+Saved fprints for 1 files ( 1840 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas057_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:52:57 2017 ingesting #0: Balsas058_10.wav ...
+Added 3826 hashes (382.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.065 x RT
+Saved fprints for 1 files ( 3826 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas058_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:53:04 2017 ingesting #0: Balsas058_10_2.wav ...
+Added 3932 hashes (393.2 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.069 x RT
+Saved fprints for 1 files ( 3932 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas058_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:53:10 2017 ingesting #0: Balsas058_20.wav ...
+Added 2687 hashes (134.3 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.053 x RT
+Saved fprints for 1 files ( 2687 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas058_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:53:17 2017 ingesting #0: Balsas059_10.wav ...
+Added 2819 hashes (281.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.071 x RT
+Saved fprints for 1 files ( 2819 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas059_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:53:28 2017 ingesting #0: Balsas059_10_2.wav ...
+Added 2989 hashes (298.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.069 x RT
+Saved fprints for 1 files ( 2989 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas059_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:53:42 2017 ingesting #0: Balsas059_20.wav ...
+Added 2591 hashes (129.6 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.055 x RT
+Saved fprints for 1 files ( 2591 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas059_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:53:56 2017 ingesting #0: Balsas060_10.wav ...
+Added 4008 hashes (400.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.8 s sec = 0.075 x RT
+Saved fprints for 1 files ( 4008 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas060_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:54:10 2017 ingesting #0: Balsas060_10_2.wav ...
+Added 3954 hashes (395.4 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.074 x RT
+Saved fprints for 1 files ( 3954 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas060_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:54:24 2017 ingesting #0: Balsas060_20.wav ...
+Added 2364 hashes (118.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.2 s sec = 0.058 x RT
+Saved fprints for 1 files ( 2364 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas060_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:54:38 2017 ingesting #0: Balsas061.wav ...
+Added 3245 hashes (324.4 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.067 x RT
+Saved fprints for 1 files ( 3245 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas061.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:54:55 2017 ingesting #0: Balsas061_10.wav ...
+Added 3175 hashes (317.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.067 x RT
+Saved fprints for 1 files ( 3175 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas061_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:55:09 2017 ingesting #0: Balsas061_20.wav ...
+Added 2057 hashes (102.8 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.2 s sec = 0.062 x RT
+Saved fprints for 1 files ( 2057 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas061_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:55:17 2017 ingesting #0: Balsas062.wav ...
+Added 3588 hashes (358.7 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.075 x RT
+Saved fprints for 1 files ( 3588 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas062.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:55:25 2017 ingesting #0: Balsas062_10.wav ...
+Added 3659 hashes (365.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 1.0 s sec = 0.096 x RT
+Saved fprints for 1 files ( 3659 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas062_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:55:33 2017 ingesting #0: Balsas062_20.wav ...
+Added 2284 hashes (114.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.2 s sec = 0.061 x RT
+Saved fprints for 1 files ( 2284 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas062_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:55:41 2017 ingesting #0: Balsas063.wav ...
+Added 2296 hashes (229.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.060 x RT
+Saved fprints for 1 files ( 2296 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas063.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:55:48 2017 ingesting #0: Balsas063_10.wav ...
+Added 1884 hashes (188.4 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.061 x RT
+Saved fprints for 1 files ( 1884 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas063_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:55:56 2017 ingesting #0: Balsas063_20.wav ...
+Added 2427 hashes (121.3 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.0 s sec = 0.052 x RT
+Saved fprints for 1 files ( 2427 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas063_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:56:04 2017 ingesting #0: Balsas064.wav ...
+Added 3641 hashes (364.0 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.070 x RT
+Saved fprints for 1 files ( 3641 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas064.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:56:11 2017 ingesting #0: Balsas064_10.wav ...
+Added 3913 hashes (391.3 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.067 x RT
+Saved fprints for 1 files ( 3913 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas064_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:56:18 2017 ingesting #0: Balsas064_20.wav ...
+Added 1945 hashes (97.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.0 s sec = 0.051 x RT
+Saved fprints for 1 files ( 1945 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas064_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:56:26 2017 ingesting #0: Balsas065.wav ...
+Added 2376 hashes (237.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.063 x RT
+Saved fprints for 1 files ( 2376 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas065.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:56:34 2017 ingesting #0: Balsas065_10.wav ...
+Added 2238 hashes (223.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.074 x RT
+Saved fprints for 1 files ( 2238 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas065_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:56:42 2017 ingesting #0: Balsas065_20.wav ...
+Added 2940 hashes (147.0 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.057 x RT
+Saved fprints for 1 files ( 2940 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas065_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:56:50 2017 ingesting #0: Balsas066.wav ...
+Added 3953 hashes (395.2 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.065 x RT
+Saved fprints for 1 files ( 3953 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas066.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:56:57 2017 ingesting #0: Balsas066_10.wav ...
+Added 3498 hashes (349.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.063 x RT
+Saved fprints for 1 files ( 3498 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas066_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:57:05 2017 ingesting #0: Balsas066_20.wav ...
+Added 2168 hashes (108.4 hashes/sec)
+Processed 1 files (20.0 s total dur) in 2.2 s sec = 0.111 x RT
+Saved fprints for 1 files ( 2168 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas066_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:57:19 2017 ingesting #0: Balsas067.wav ...
+Added 4179 hashes (417.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.068 x RT
+Saved fprints for 1 files ( 4179 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas067.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:57:28 2017 ingesting #0: Balsas067_10.wav ...
+Added 3781 hashes (378.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.8 s sec = 0.083 x RT
+Saved fprints for 1 files ( 3781 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas067_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:57:36 2017 ingesting #0: Balsas067_20.wav ...
+Added 2744 hashes (137.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.2 s sec = 0.058 x RT
+Saved fprints for 1 files ( 2744 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas067_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:57:44 2017 ingesting #0: Balsas068.wav ...
+Added 2409 hashes (240.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.064 x RT
+Saved fprints for 1 files ( 2409 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas068.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:57:52 2017 ingesting #0: Balsas068_10.wav ...
+Added 2745 hashes (274.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.8 s sec = 0.075 x RT
+Saved fprints for 1 files ( 2745 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas068_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:58:01 2017 ingesting #0: Balsas068_20.wav ...
+Added 2517 hashes (125.8 hashes/sec)
+Processed 1 files (20.0 s total dur) in 2.3 s sec = 0.116 x RT
+Saved fprints for 1 files ( 2517 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas068_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:58:13 2017 ingesting #0: Balsas069_10.wav ...
+Added 3989 hashes (398.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.069 x RT
+Saved fprints for 1 files ( 3989 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas069_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:58:20 2017 ingesting #0: Balsas069_10_2.wav ...
+Added 3860 hashes (385.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.8 s sec = 0.077 x RT
+Saved fprints for 1 files ( 3860 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas069_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:58:28 2017 ingesting #0: Balsas069_20.wav ...
+Added 2250 hashes (112.5 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.057 x RT
+Saved fprints for 1 files ( 2250 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas069_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:58:37 2017 ingesting #0: Balsas070_10.wav ...
+Added 4011 hashes (401.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.8 s sec = 0.075 x RT
+Saved fprints for 1 files ( 4011 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas070_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:58:45 2017 ingesting #0: Balsas070_10_2.wav ...
+Added 3823 hashes (382.2 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.070 x RT
+Saved fprints for 1 files ( 3823 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas070_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:58:53 2017 ingesting #0: Balsas070_20.wav ...
+Added 2520 hashes (126.0 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.2 s sec = 0.058 x RT
+Saved fprints for 1 files ( 2520 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas070_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:59:01 2017 ingesting #0: Balsas071_10.wav ...
+Added 1413 hashes (141.3 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.062 x RT
+Saved fprints for 1 files ( 1413 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas071_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:59:09 2017 ingesting #0: Balsas071_10_2.wav ...
+Added 2984 hashes (298.3 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.069 x RT
+Saved fprints for 1 files ( 2984 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas071_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:59:17 2017 ingesting #0: Balsas071_20.wav ...
+Added 2665 hashes (133.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.2 s sec = 0.059 x RT
+Saved fprints for 1 files ( 2665 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas071_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:59:26 2017 ingesting #0: Balsas072_10.wav ...
+Added 3895 hashes (389.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.066 x RT
+Saved fprints for 1 files ( 3895 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas072_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:59:33 2017 ingesting #0: Balsas072_10_2.wav ...
+Added 3826 hashes (382.5 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.069 x RT
+Saved fprints for 1 files ( 3826 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas072_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:59:42 2017 ingesting #0: Balsas072_20.wav ...
+Added 2368 hashes (118.4 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.055 x RT
+Saved fprints for 1 files ( 2368 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas072_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 19:59:50 2017 ingesting #0: Balsas073_10.wav ...
+Added 2360 hashes (236.0 hashes/sec)
+Processed 1 files (10.0 s total dur) in 1.0 s sec = 0.098 x RT
+Saved fprints for 1 files ( 2360 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas073_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:00:00 2017 ingesting #0: Balsas073_10_2.wav ...
+Added 2554 hashes (255.3 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.8 s sec = 0.076 x RT
+Saved fprints for 1 files ( 2554 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas073_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:00:08 2017 ingesting #0: Balsas073_20.wav ...
+Added 2674 hashes (133.7 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.2 s sec = 0.061 x RT
+Saved fprints for 1 files ( 2674 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas073_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:00:16 2017 ingesting #0: Balsas074_10.wav ...
+Added 2343 hashes (234.3 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.066 x RT
+Saved fprints for 1 files ( 2343 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas074_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:00:24 2017 ingesting #0: Balsas074_10_2.wav ...
+Added 3100 hashes (309.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.8 s sec = 0.082 x RT
+Saved fprints for 1 files ( 3100 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas074_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:00:32 2017 ingesting #0: Balsas074_20.wav ...
+Added 2022 hashes (101.1 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.053 x RT
+Saved fprints for 1 files ( 2022 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas074_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:00:40 2017 ingesting #0: Balsas075_10.wav ...
+Added 3991 hashes (399.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.064 x RT
+Saved fprints for 1 files ( 3991 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas075_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:00:48 2017 ingesting #0: Balsas075_10_2.wav ...
+Added 3824 hashes (382.3 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.067 x RT
+Saved fprints for 1 files ( 3824 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas075_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:00:56 2017 ingesting #0: Balsas075_20.wav ...
+Added 1959 hashes (98.0 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.0 s sec = 0.051 x RT
+Saved fprints for 1 files ( 1959 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas075_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:01:03 2017 ingesting #0: Balsas076_10.wav ...
+Added 3716 hashes (371.6 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.075 x RT
+Saved fprints for 1 files ( 3716 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas076_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:01:11 2017 ingesting #0: Balsas076_10_2.wav ...
+Added 3860 hashes (385.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.066 x RT
+Saved fprints for 1 files ( 3860 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas076_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:01:19 2017 ingesting #0: Balsas076_20.wav ...
+Added 2083 hashes (104.2 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.0 s sec = 0.052 x RT
+Saved fprints for 1 files ( 2083 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas076_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:01:27 2017 ingesting #0: Balsas077_10.wav ...
+Added 3021 hashes (302.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.068 x RT
+Saved fprints for 1 files ( 3021 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas077_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:01:34 2017 ingesting #0: Balsas077_10_2.wav ...
+Added 2761 hashes (276.0 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.059 x RT
+Saved fprints for 1 files ( 2761 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas077_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:01:42 2017 ingesting #0: Balsas077_20.wav ...
+Added 2451 hashes (122.5 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.0 s sec = 0.049 x RT
+Saved fprints for 1 files ( 2451 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas077_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:01:50 2017 ingesting #0: Balsas078_10.wav ...
+Added 4113 hashes (411.3 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.066 x RT
+Saved fprints for 1 files ( 4113 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas078_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:01:58 2017 ingesting #0: Balsas078_10_2.wav ...
+Added 3954 hashes (433.4 hashes/sec)
+Processed 1 files (9.1 s total dur) in 0.6 s sec = 0.064 x RT
+Saved fprints for 1 files ( 3954 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas078_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:02:06 2017 ingesting #0: Balsas078_20.wav ...
+Added 1993 hashes (99.7 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.054 x RT
+Saved fprints for 1 files ( 1993 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas078_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:02:17 2017 ingesting #0: Balsas079_10.wav ...
+Added 2519 hashes (251.9 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.9 s sec = 0.092 x RT
+Saved fprints for 1 files ( 2519 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas079_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:02:31 2017 ingesting #0: Balsas079_10_2.wav ...
+Added 3011 hashes (301.0 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.6 s sec = 0.065 x RT
+Saved fprints for 1 files ( 3011 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas079_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:02:44 2017 ingesting #0: Balsas079_20.wav ...
+Added 3090 hashes (154.5 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.2 s sec = 0.059 x RT
+Saved fprints for 1 files ( 3090 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas079_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:02:58 2017 ingesting #0: Balsas080_10.wav ...
+Added 3841 hashes (384.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.073 x RT
+Saved fprints for 1 files ( 3841 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas080_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:03:12 2017 ingesting #0: Balsas080_10_2.wav ...
+Added 4232 hashes (423.1 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.073 x RT
+Saved fprints for 1 files ( 4232 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas080_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:03:27 2017 ingesting #0: Balsas080_20.wav ...
+Added 1833 hashes (91.7 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.3 s sec = 0.063 x RT
+Saved fprints for 1 files ( 1833 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas080_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:03:41 2017 ingesting #0: Balsas081_kia_10.wav ...
+Added 5322 hashes (532.2 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.068 x RT
+Saved fprints for 1 files ( 5322 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas081_kia_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:03:54 2017 ingesting #0: Balsas081_kia_10_2.wav ...
+Added 4678 hashes (467.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.8 s sec = 0.080 x RT
+Saved fprints for 1 files ( 4678 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas081_kia_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:04:07 2017 ingesting #0: Balsas081_kia_20.wav ...
+Added 8491 hashes (424.6 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.3 s sec = 0.063 x RT
+Saved fprints for 1 files ( 8491 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas081_kia_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:04:21 2017 ingesting #0: Balsas085_suzuki_10.wav ...
+Added 4088 hashes (408.8 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.067 x RT
+Saved fprints for 1 files ( 4088 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas085_suzuki_10.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:04:29 2017 ingesting #0: Balsas085_suzuki_10_2.wav ...
+Added 4010 hashes (401.0 hashes/sec)
+Processed 1 files (10.0 s total dur) in 0.7 s sec = 0.066 x RT
+Saved fprints for 1 files ( 4010 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas085_suzuki_10_2.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:04:35 2017 ingesting #0: Balsas085_suzuki_20.wav ...
+Added 7715 hashes (385.8 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.2 s sec = 0.060 x RT
+Saved fprints for 1 files ( 7715 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas085_suzuki_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:04:42 2017 ingesting #0: Balsas101_nissan_20.wav ...
+Added 3168 hashes (158.4 hashes/sec)
+Processed 1 files (20.0 s total dur) in 1.1 s sec = 0.055 x RT
+Saved fprints for 1 files ( 3168 hashes) to /home/kd/Desktop/audfprint/databases/experiment/10_20_10/Balsas101_nissan_20.pklz
+Dropped hashes= 0 (0.00%)
+Wed Jan 25 20:04:49 2017 ingesting #0: log.log ...
