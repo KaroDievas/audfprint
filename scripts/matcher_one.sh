@@ -1,5 +1,6 @@
 #!/bin/sh
 cd "../experiment/10_20_10/"
+
 for file in *;
 do
 filename=$(basename "$file")
